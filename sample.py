@@ -1,6 +1,4 @@
 
-print  "hello world"
-print  "Hi"
 print  "Welcome to Jenkins"
-
+print "welcome to ta"
 
